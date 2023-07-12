@@ -1,0 +1,11 @@
+// Dependencies version variables
+const val ANDROIDX_CORE = "1.8.0"
+const val ANDROIDX_APPCOMPAT = "1.4.2"
+const val ANDROIDX_MATERIAL = "1.6.1"
+const val ANDROIDX_CONSTRAINT_LAYOUT = "2.1.4"
+const val LIFECYCLE_VERSION = "2.5.0"
+const val COROUTINES_VERSION = "1.6.4"
+const val ROOM_VERSION = "2.4.2"
+const val OK_HTTP_VERSION = "4.9.0"
+const val RETROFIT_VERSION = "2.9.0"
+const val GLIDE_VERSION = "4.11.0"

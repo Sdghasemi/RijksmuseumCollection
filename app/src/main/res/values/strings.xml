@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rijksmuseum Museum</string>
+    <string name="failed_to_connect_to_remote_server">Failed to connect to remote server!</string>
+    <string name="an_error_occurred">An error occurred!</string>
+</resources>
