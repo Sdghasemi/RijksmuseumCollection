@@ -18,7 +18,10 @@ The images displayed as thumbnails are also cached for better experience.
 </ul>
 
 ## Access to the API
-RijksData API needs an **API Key** to work. You can replace the existing key with your own on [build.gradle.kts](./app/build.gradle.kts#21).
+RijksData API needs an **API Key** to work. You can replace the existing key with your own on [build.gradle.kts](./app/build.gradle.kts#22).
+
+## APK
+A [pre-built APK](app-debug.apk) is placed in the root of the project for your convenience.
 
 ### Contact developer
 
