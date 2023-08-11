@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     // This should be in-sync with the Gradle version exposed by `Versions.kt`
-    implementation("com.android.tools.build:gradle:8.0.2")
+    implementation("com.android.tools.build:gradle:8.1.0")
 
     // This should be in-sync with the Kotlin version exposed by `Versions.kt`
     implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10")
